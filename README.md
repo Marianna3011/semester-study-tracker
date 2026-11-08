@@ -9,7 +9,7 @@ Open `index.html` in a current browser. No install, account, or server is requir
 ## Use it
 
 - Keep coursework in University and home, choir, social, and personal reminders in Life.
-- Add, edit, complete, or remove tasks. Repeating tasks can run daily, weekly, monthly, or yearly. Completing one schedules its next date and records the last completed date; set a due date to enable repetition.
+- Add, edit, complete, or remove tasks. Repeating tasks can run daily, weekly, every two weeks, monthly, every two months, or yearly. Completing one schedules its next date and records the last completed date; set a due date to enable repetition.
 - University tasks include a table with editable To do, In progress, Waiting, and Done statuses.
 - Filter or search tasks by course and status.
 - Use Calendar for a monthly deadline view and the weekly class pattern read from USOS. The timetable marks alternating odd/even week groups and shows the listed start time and room.
